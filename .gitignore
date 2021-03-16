@@ -1,5 +1,5 @@
 .idea
 screen.png
-iml
-out
+*.iml
+*.out
 Screen2.png
